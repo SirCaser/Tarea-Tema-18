@@ -4,6 +4,6 @@ public class App {
         System.out.println("");
         System.out.println("Hello, World!");
         System.out.println("Feature2 2.0");
-        System.out.println("Release");
+        System.out.println("Release 2");
     }
 }
