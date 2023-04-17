@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hola");
         System.out.println("");
         System.out.println("Hello, World!");
-        System.out.println("Develop 2");
+        System.out.println("Feature2 2.0");
     }
 }
